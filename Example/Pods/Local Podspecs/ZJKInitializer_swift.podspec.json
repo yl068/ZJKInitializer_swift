@@ -1,0 +1,22 @@
+{
+  "name": "ZJKInitializer_swift",
+  "version": "0.1.0",
+  "summary": "链式语法",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yl068/ZJKInitializer_swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yl068": "1247769231@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/yl068/ZJKInitializer_swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZJKInitializer_swift/Classes/**/*"
+}

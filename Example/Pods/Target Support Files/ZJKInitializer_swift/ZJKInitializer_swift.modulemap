@@ -1,0 +1,6 @@
+framework module ZJKInitializer_swift {
+  umbrella header "ZJKInitializer_swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZJKInitializer_swift (0.1.0)
+
+DEPENDENCIES:
+  - ZJKInitializer_swift (from `../`)
+
+EXTERNAL SOURCES:
+  ZJKInitializer_swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJKInitializer_swift: f2f54d04b69533a21f04b5bb13e73064fb6aa38d
+
+PODFILE CHECKSUM: 2942e64b97c11c37537ad7a95c75e38c9e5e1cea
+
+COCOAPODS: 1.11.3
