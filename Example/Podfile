@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ZJKInitializer_swift_Example' do
+  pod 'ZJKInitializer_swift', :path => '../'
+
+  target 'ZJKInitializer_swift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
